@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Orkney Bold';
+   font-display: swap;
+   src: url('Orkney Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Orkney Medium';
+   font-display: swap;
+   src: url('Orkney Medium/font.ttf');
+}
+@font-face {
+   font-family: 'Orkney Regular';
+   font-display: swap;
+   src: url('Orkney Regular/font.ttf');
+}
